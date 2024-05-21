@@ -21,7 +21,7 @@
     ],
     "license": "MIT",
     "dependencies": {
-        "vitepress": "^1.1.0",
+        "vitepress": "^1.2.1",
         "vue": "^3.4.23"
     }
 }
